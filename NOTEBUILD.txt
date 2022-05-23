@@ -1,0 +1,8 @@
+-for test:
+
+[pc and mobile] flutter run -d chrome --web-renderer auto
+[only pc] flutter run -d chrome --web-renderer html
+-for build:
+
+[only pc] flutter build web --web-renderer html
+[pc and mobile] flutter build web --release --web-renderer auto --no-sound-null-safety

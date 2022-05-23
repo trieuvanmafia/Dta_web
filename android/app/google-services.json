@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848064092897",
+    "project_id": "dtabot-d19c9",
+    "storage_bucket": "dtabot-d19c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848064092897:android:1c285a23a162a8769ff5a0",
+        "android_client_info": {
+          "package_name": "com.example.captone2_dta_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848064092897-g1ffriv5ndr65ljpfvvf58hibrikqvnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB1c6Ix368huWYErBW_27zS_k8dA0qg6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848064092897-g1ffriv5ndr65ljpfvvf58hibrikqvnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

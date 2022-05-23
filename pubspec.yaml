@@ -1,0 +1,34 @@
+name: captone2_dta_bot
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.16.1 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.1
+  carousel_slider: ^4.1.1
+  flutter_swiper: ^1.1.6
+  file_picker: ^4.5.1
+  excel: ^1.1.5
+  firebase_storage: ^10.2.15
+  url_launcher: ^6.1.0
+  firebase_core: ^1.16.0
+  cloud_firestore: ^3.1.14
+  getwidget: ^2.0.5
+  d_chart: ^0.0.4
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+
